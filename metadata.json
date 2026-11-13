@@ -1,54 +1,41 @@
 [
-    {
-        "id": "z5Ovym2DLf8xwzTYgHl2jE3pH0qOlomW",
-        "plugin": "folder-notes",
-        "type": "plugin",
-        "language": "zh-cn",
-        "version": "2.0.0",
-        "supported_versions": "1.7.35",
-        "title": "Folder notes",
-        "description": "Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.",
-        "hash": "5a3b775e5a3b775e5a3b775e5a3b775e",
-        "created_at": "2026-11-13T08:49:11.143Z",
-        "updated_at": "2026-11-13T08:49:11.143Z"
-    },
-    {
-        "id": "BowOdU3gTe9_EwycpdnFaB3zd4L4P_TL",
-        "plugin": "obsidian-minimal-settings",
-        "type": "plugin",
-        "language": "zh-cn",
-        "version": "2.0.0",
-        "supported_versions": "8.1.1",
-        "title": "Minimal Theme Settings",
-        "description": "Change the colors, fonts and features of Minimal Theme.",
-        "hash": "0bffba5a0bffba5a0bffba5a0bffba5a",
-        "created_at": "2026-11-13T08:49:11.143Z",
-        "updated_at": "2026-11-13T08:49:11.143Z"
-    },
-    {
-        "id": "gCtbEpEknK3SQyt8CyboVk_1sRBGOVeu",
-        "plugin": "Minimal",
-        "type": "theme",
-        "language": "zh-cn",
-        "version": "1.0.1",
-        "supported_versions": "8.2.1",
-        "title": "Minimal",
-        "description": "Minimal Localization & Tweaks",
-        "hash": "18ed054418ed054418ed054418ed0544",
-        "created_at": "2026-11-13T08:49:11.144Z",
-        "updated_at": "2026-11-13T08:49:11.144Z"
-    },
-    {
-        "id": "gt5bbAQTn-fj4XLIf4RA9HwfYpac1-o1",
-        "plugin": "obsidian-style-settings",
-        "type": "plugin",
-        "language": "zh-cn",
-        "version": "2.0.0",
-        "supported_versions": "1.0.9",
-        "title": "Style Settings",
-        "description": "Offers controls for adjusting theme, plugin, and snippet CSS variables.",
-        "hash": "0b757fd80b757fd80b757fd80b757fd8",
-        "created_at": "2026-11-13T08:49:11.140Z",
-        "updated_at": "2026-11-13T08:49:11.140Z"
-    }
+  {
+    "id": "BowOdU3gTe9_EwycpdnFaB3zd4L4P_TL",
+    "plugin": "obsidian-minimal-settings",
+    "type": "plugin",
+    "language": "zh-cn",
+    "version": "2.0.0",
+    "supported_versions": "8.1.1",
+    "title": "Minimal Theme Settings",
+    "description": "Change the colors, fonts and features of Minimal Theme.",
+    "hash": "0bffba5a0bffba5a0bffba5a0bffba5a",
+    "created_at": "2026-11-13T08:49:11.143Z",
+    "updated_at": "2026-11-13T08:49:11.143Z"
+  },
+  {
+    "id": "gCtbEpEknK3SQyt8CyboVk_1sRBGOVeu",
+    "plugin": "Minimal",
+    "type": "theme",
+    "language": "zh-cn",
+    "version": "1.0.1",
+    "supported_versions": "8.2.1",
+    "title": "Minimal",
+    "description": "Minimal Localization & Tweaks",
+    "hash": "18ed054418ed054418ed054418ed0544",
+    "created_at": "2026-11-13T08:49:11.144Z",
+    "updated_at": "2026-11-13T08:49:11.144Z"
+  },
+  {
+    "id": "gt5bbAQTn-fj4XLIf4RA9HwfYpac1-o1",
+    "plugin": "obsidian-style-settings",
+    "type": "plugin",
+    "language": "zh-cn",
+    "version": "2.0.0",
+    "supported_versions": "1.0.9",
+    "title": "Style Settings",
+    "description": "Offers controls for adjusting theme, plugin, and snippet CSS variables.",
+    "hash": "0b757fd80b757fd80b757fd80b757fd8",
+    "created_at": "2026-11-13T08:49:11.140Z",
+    "updated_at": "2026-11-13T08:49:11.140Z"
+  }
 ]
