@@ -50,18 +50,5 @@
     "hash": "67feeb1767feeb1767feeb1767feeb17",
     "created_at": "2026-11-13T09:00:00.547Z",
     "updated_at": "2026-11-13T09:00:00.547Z"
-  },
-  {
-    "id": "7D3VpbIHH6S2hC3K8K7CKRBzfgvYm8KO",
-    "plugin": "current-folder-notes-pamphlet",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "1.0.1",
-    "supported_versions": "1.7.15",
-    "title": "Current Folder Notes",
-    "description": "Current Folder Notes Localization & Tweaks",
-    "hash": "6ef861a16ef861a16ef861a16ef861a1",
-    "created_at": "2026-11-13T09:00:00.549Z",
-    "updated_at": "2026-11-13T09:00:00.549Z"
   }
 ]
